@@ -1,4 +1,4 @@
-//As of 07/27/2017: I have implemented a file parser which searches a text file against a search word
+//As of 07/27/2021: I have implemented a file parser which searches a text file against a search word
 //                  and confirms whether or not the search word exists in the text file.
 
 
